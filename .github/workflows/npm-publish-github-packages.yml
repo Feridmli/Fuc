@@ -28,4 +28,4 @@ jobs:
           NFT_CONTRACT_ADDRESS: ${{ secrets.NFT_CONTRACT_ADDRESS }}
           SEAPORT_CONTRACT_ADDRESS: ${{ secrets.SEAPORT_CONTRACT_ADDRESS }} # canonical Seaport
           BACKEND_URL: ${{ secrets.BACKEND_URL }}
-        run: node ./SyncSeaportOrders.js  # fayl repo kökündədirsə './' əlavə et
+        run: node ./syncOpenseaOrders.js  # fayl repo kökündədirsə './' əlavə et
