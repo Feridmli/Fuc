@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 import { Seaport } from "@opensea/seaport-js";
 
-const BACKEND_URL = "https://sənin-app.onrender.com"; 
+const BACKEND_URL = "https://fuc-c8m1.onrender.com"; 
 const NFT_CONTRACT_ADDRESS = "0x54a88333F6e7540eA982261301309048aC431eD5";
 const SEAPORT_CONTRACT_ADDRESS = "0x00000000000001ad428e4906ae43d8f9852d0dd6"; // canonical
 const APECHAIN_ID = 33139; 
